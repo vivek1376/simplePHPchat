@@ -1,0 +1,727 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="279a0a8e-81c6-4576-a59a-eff5aa0c3f32" name="Default" comment="" />
+    <ignored path="phptest.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="phptest" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="login.html.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chat_longPolling/login.html.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="212" column="0" selection-start="5925" selection-end="5925" vertical-scroll-proportion="0.0" vertical-offset="3180" max-vertical-offset="3600">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="access.inc.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chat_longPolling/access.inc.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="97" column="0" selection-start="3028" selection-end="3028" vertical-scroll-proportion="0.0" vertical-offset="1455" max-vertical-offset="2460">
+              <folding>
+                <marker date="1408479927770" expanded="true" signature="1047:1101" placeholder="UPDATE chatu..." />
+                <marker date="1408479927770" expanded="true" signature="2031:2085" placeholder="UPDATE chatu..." />
+                <marker date="1408479927770" expanded="true" signature="3045:3117" placeholder="SELECT id FR..chatusers..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chat_longPolling/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="178" column="29" selection-start="6007" selection-end="6007" vertical-scroll-proportion="-0.13711151" vertical-offset="2670" max-vertical-offset="3645">
+              <folding>
+                <marker date="1408480772654" expanded="true" signature="779:838" placeholder="SELECT COUNT..chatusers..." />
+                <marker date="1408480772654" expanded="true" signature="2136:2343" placeholder="INSERT INTO ..." />
+                <marker date="1408480772654" expanded="true" signature="4396:4475" placeholder="INSERT INTO ..." />
+                <marker date="1408480772654" expanded="true" signature="4953:5023" placeholder="INSERT INTO ..." />
+                <marker date="1408480772654" expanded="true" signature="5406:5482" placeholder="DELETE FROM ..." />
+                <marker date="1408480772654" expanded="true" signature="5994:6039" placeholder="SELECT first..chatusers..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="friendForm.html.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chat_longPolling/friendForm.html.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="299" column="59" selection-start="9005" selection-end="9005" vertical-scroll-proportion="0.0" vertical-offset="4485" max-vertical-offset="4800">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="magicquotes.inc.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/includes/magicquotes.inc.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="465">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="access.inc.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chat/access.inc.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="45" column="12" selection-start="1466" selection-end="1466" vertical-scroll-proportion="0.0" vertical-offset="675" max-vertical-offset="2430">
+              <folding>
+                <marker date="1402252868349" expanded="true" signature="1011:1065" placeholder="UPDATE chatu..." />
+                <marker date="1402252868349" expanded="true" signature="1995:2049" placeholder="UPDATE chatu..." />
+                <marker date="1402252868349" expanded="true" signature="3008:3080" placeholder="SELECT id FR..chatusers..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ajaxdemo.html.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chat/ajaxdemo.html.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="142" column="32" selection-start="4732" selection-end="4732" vertical-scroll-proportion="0.0" vertical-offset="2130" max-vertical-offset="2610">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="chat.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chat/chat.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="59" column="26" selection-start="2063" selection-end="2063" vertical-scroll-proportion="0.0" vertical-offset="885" max-vertical-offset="1215">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="access.inc.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/includes/access.inc.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="21" column="0" selection-start="548" selection-end="548" vertical-scroll-proportion="0.0" vertical-offset="315" max-vertical-offset="1995">
+              <folding>
+                <marker date="1400656377641" expanded="true" signature="1814:1884" placeholder="SELECT COUNT..authors..." />
+                <marker date="1400656377641" expanded="true" signature="2540:2713" placeholder="SELECT COUNT..authors..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="db.inc.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/includes/db.inc.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="345">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/cookie/index.php" />
+        <option value="$PROJECT_DIR$/cookie/welcome.html.php" />
+        <option value="$PROJECT_DIR$/shoppingcart/catalog.html.php" />
+        <option value="$PROJECT_DIR$/shoppingcart/index.php" />
+        <option value="$PROJECT_DIR$/shoppingcart/cart.html.php" />
+        <option value="$PROJECT_DIR$/admin/accessdenied.html.php" />
+        <option value="$PROJECT_DIR$/admin/logout.inc.html.php" />
+        <option value="$PROJECT_DIR$/admin/authors/authors.html.php" />
+        <option value="$PROJECT_DIR$/admin/movies/movies.html.php" />
+        <option value="$PROJECT_DIR$/admin/genres/genres.html.php" />
+        <option value="$PROJECT_DIR$/admin/movies/searchform.html.php" />
+        <option value="$PROJECT_DIR$/admin/login.html.php" />
+        <option value="$PROJECT_DIR$/includes/access.inc.php" />
+        <option value="$PROJECT_DIR$/admin/movies/index.php" />
+        <option value="$PROJECT_DIR$/admin/authors/form.html.php" />
+        <option value="$PROJECT_DIR$/admin/genres/index.php" />
+        <option value="$PROJECT_DIR$/chat/test.html" />
+        <option value="$PROJECT_DIR$/chat/chatwindow.html" />
+        <option value="$PROJECT_DIR$/chat/test2.html" />
+        <option value="$PROJECT_DIR$/chat/test1.php" />
+        <option value="$PROJECT_DIR$/chat/handheld.css" />
+        <option value="$PROJECT_DIR$/chat/mobile.css" />
+        <option value="$PROJECT_DIR$/chat/nanoscroller.css" />
+        <option value="$PROJECT_DIR$/chat/login.html.php" />
+        <option value="$PROJECT_DIR$/admin/authors/index.php" />
+        <option value="$PROJECT_DIR$/chat/logout.inc.html.php" />
+        <option value="$PROJECT_DIR$/chat/access.inc.php" />
+        <option value="$PROJECT_DIR$/chat/friendForm.html.php" />
+        <option value="$PROJECT_DIR$/chat_old/index.php" />
+        <option value="$PROJECT_DIR$/chat/index.php" />
+        <option value="$PROJECT_DIR$/chat/timeout.html" />
+        <option value="$PROJECT_DIR$/chat/chat.php" />
+        <option value="$PROJECT_DIR$/chat_old/chatwindow.html.php" />
+        <option value="$PROJECT_DIR$/chat/chatwindow.html.php" />
+        <option value="$PROJECT_DIR$/chat/chat2.php" />
+        <option value="$PROJECT_DIR$/chat/ajaxdemo.html.php" />
+        <option value="$PROJECT_DIR$/chat_longPolling/chat.php" />
+        <option value="$PROJECT_DIR$/chat_longPolling/logout.inc.html.php" />
+        <option value="$PROJECT_DIR$/chat_longPolling/chatwindow.html.php" />
+        <option value="$PROJECT_DIR$/chat_longPolling/check.php" />
+        <option value="$PROJECT_DIR$/chat_longPolling/ttt.php" />
+        <option value="$PROJECT_DIR$/chat_longPolling/query.php" />
+        <option value="$PROJECT_DIR$/chat_longPolling/CaptchasDotNet.php" />
+        <option value="$PROJECT_DIR$/chat_longPolling/captcha/test.php" />
+        <option value="$PROJECT_DIR$/chat_longPolling/captcha/index.php" />
+        <option value="$PROJECT_DIR$/chat_longPolling/captcha/check.php" />
+        <option value="$PROJECT_DIR$/chat_longPolling/register.html.php" />
+        <option value="$PROJECT_DIR$/chat_longPolling/login.html.php" />
+        <option value="$PROJECT_DIR$/chat_longPolling/access.inc.php" />
+        <option value="$PROJECT_DIR$/chat_longPolling/friendForm.html.php" />
+        <option value="$PROJECT_DIR$/chat_longPolling/index.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="53" />
+    <option name="y" value="-4" />
+    <option name="width" value="1313" />
+    <option name="height" value="772" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="phptest">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phptest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phptest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phptest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="LayoutCode.rearrangeEntriesHTML" value="false" />
+    <property name="LayoutCode.rearrangeEntriesPHP" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="FullScreen" value="false" />
+    <property name="SearchEverywhereHistory" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/chat_longPolling/captcha" />
+      <recent name="$PROJECT_DIR$/chat" />
+      <recent name="$PROJECT_DIR$/admin/movies" />
+      <recent name="$PROJECT_DIR$/admin/genres" />
+      <recent name="$PROJECT_DIR$/admin/authors" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/chat_longPolling" />
+      <recent name="$PROJECT_DIR$/chat_longPolling/captcha" />
+      <recent name="$PROJECT_DIR$/chat_longPolling/captcha/1" />
+      <recent name="$PROJECT_DIR$/CMS" />
+      <recent name="$PROJECT_DIR$/includes" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PhpRemoteDebugRunConfigurationType" factoryName="PHP Remote Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpHttpRequestRunConfigurationType" factoryName="PHP HTTP Request">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="com.intellij.persistence.run.ConsoleRunConfigurationType" factoryName="Query Language Console">
+      <option name="VM_PARAMETERS" value="" />
+      <option name="USER_CFG_CLASS" />
+      <option name="CONTEXT_PROVIDER" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="XSLT" factoryName="XSLT">
+      <option name="myOutputFile" />
+      <option name="myOpenOutputFile" value="false" />
+      <option name="myOpenInBrowser" value="false" />
+      <option name="mySmartErrorHandling" value="true" />
+      <option name="myRunnerPort" value="34873" />
+      <option name="myVmArguments" />
+      <option name="myWorkingDirectory" />
+      <option name="myModule" />
+      <option name="myJdk" />
+      <parameters />
+      <OutputType value="CONSOLE" save-to-file="false" />
+      <FileType name="XML" />
+      <JdkChoice value="FROM_MODULE" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AppEnginePhpConfigurationType" factoryName="App Engine for PHP">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="279a0a8e-81c6-4576-a59a-eff5aa0c3f32" name="Default" comment="" />
+      <created>1398946144803</created>
+      <updated>1398946144803</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="53" y="-4" width="1313" height="772" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20377655" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977098" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24940991" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32988167" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32988167" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2132521" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/CMS/admin/accessdenied.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="15" selection-start="188" selection-end="188" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="435" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMS/admin/movies/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="188" column="5" selection-start="5304" selection-end="5304" vertical-scroll-proportion="-53.82353" vertical-offset="0" max-vertical-offset="5310" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMS/admin/logout.inc.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="45" selection-start="304" selection-end="304" vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="270" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMS/admin/genres/form.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="7" selection-start="292" selection-end="292" vertical-scroll-proportion="-9.375" vertical-offset="0" max-vertical-offset="540" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMS/admin/genres/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="104" column="46" selection-start="2550" selection-end="2556" vertical-scroll-proportion="-3.764706" vertical-offset="1293" max-vertical-offset="2400" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMS/admin/authors/error.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="7" selection-start="246" selection-end="246" vertical-scroll-proportion="-10.0" vertical-offset="0" max-vertical-offset="330" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMS/admin/authors/authors.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="62" selection-start="666" selection-end="666" vertical-scroll-proportion="-14.5" vertical-offset="42" max-vertical-offset="645" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chat/logout.inc.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="48" selection-start="241" selection-end="241" vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="270" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chat_old/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="0" selection-start="244" selection-end="244" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="300" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMS/admin/authors/form.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="51" selection-start="498" selection-end="498" vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="870" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chat/chatwindow.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="80" column="52" selection-start="2339" selection-end="2339" vertical-scroll-proportion="0.0" vertical-offset="1353" max-vertical-offset="1980" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chat/friendForm.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="72" column="24" selection-start="2528" selection-end="2528" vertical-scroll-proportion="0.0" vertical-offset="1080" max-vertical-offset="2025" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chat/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="95" column="34" selection-start="2985" selection-end="2985" vertical-scroll-proportion="0.0" vertical-offset="1425" max-vertical-offset="2280" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chat/test2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="10" selection-start="10" selection-end="10" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="90" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chat/timeout.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="12" selection-start="552" selection-end="552" vertical-scroll-proportion="0.0" vertical-offset="330" max-vertical-offset="1110" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chat/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="11" selection-start="11" selection-end="11" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="90" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chat_old/chatwindow.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="149" column="25" selection-start="3924" selection-end="3924" vertical-scroll-proportion="0.0" vertical-offset="2020" max-vertical-offset="5730" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMS/admin/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="47" selection-start="298" selection-end="298" vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="435" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chat/chat2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="47" column="29" selection-start="1431" selection-end="1431" vertical-scroll-proportion="0.0" vertical-offset="582" max-vertical-offset="1500" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chat/chatwindow.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="85" column="9" selection-start="1506" selection-end="2282" vertical-scroll-proportion="0.0" vertical-offset="745" max-vertical-offset="5550" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shoppingcart/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="13" selection-start="905" selection-end="905" vertical-scroll-proportion="0.0" vertical-offset="645" max-vertical-offset="1035" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shoppingcart/catalog.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="12" selection-start="424" selection-end="424" vertical-scroll-proportion="0.0" vertical-offset="318" max-vertical-offset="945" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shoppingcart/cart.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="59" column="7" selection-start="1209" selection-end="1209" vertical-scroll-proportion="0.0" vertical-offset="885" max-vertical-offset="990" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chat.old.working/chat.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1005" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chat_old/chat.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="49" column="36" selection-start="1623" selection-end="1623" vertical-scroll-proportion="0.0" vertical-offset="735" max-vertical-offset="1005" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chat_longPolling/chat2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="55" column="41" selection-start="1837" selection-end="1837" vertical-scroll-proportion="1.2931035" vertical-offset="0" max-vertical-offset="1425" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chat_longPolling/ajaxdemo.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="142" column="32" selection-start="4732" selection-end="4732" vertical-scroll-proportion="3.4889643" vertical-offset="0" max-vertical-offset="2535" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMS/admin/authors/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="133" column="0" selection-start="3527" selection-end="3527" vertical-scroll-proportion="-0.12458472" vertical-offset="1995" max-vertical-offset="5415" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chat/login.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="55" selection-start="919" selection-end="919" vertical-scroll-proportion="0.7827586" vertical-offset="41" max-vertical-offset="645" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chat_longPolling/ttt.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="5" selection-start="130" selection-end="130" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="270" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chat_longPolling/captcha/1/check.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="23" selection-start="255" selection-end="255" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="780" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chat_longPolling/captcha/1/query.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="49" column="12" selection-start="1535" selection-end="1535" vertical-scroll-proportion="0.0" vertical-offset="918" max-vertical-offset="1500" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chat_longPolling/captcha/1/CaptchasDotNet.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="85.25" vertical-offset="2046" max-vertical-offset="4890" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chat_longPolling/captcha/test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="89" column="82" selection-start="3929" selection-end="3929" vertical-scroll-proportion="-31.125" vertical-offset="588" max-vertical-offset="3030" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chat_longPolling/captcha/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="43" selection-start="135" selection-end="165" vertical-scroll-proportion="-9.375" vertical-offset="0" max-vertical-offset="405" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chat_longPolling/logout.inc.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="39" selection-start="283" selection-end="283" vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="270" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chat_longPolling/chatwindow.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="10" selection-start="237" selection-end="241" vertical-scroll-proportion="0.0" vertical-offset="22" max-vertical-offset="7980" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chat_longPolling/chat.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="7" selection-start="37" selection-end="41" vertical-scroll-proportion="0.0" vertical-offset="1235" max-vertical-offset="1755" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMS/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="44" selection-start="660" selection-end="682" vertical-scroll-proportion="0.0" vertical-offset="495" max-vertical-offset="1740" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chat_longPolling/captcha/check.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="0" selection-start="179" selection-end="596" vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="390" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chat_longPolling/register.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="142" column="5" selection-start="3217" selection-end="3217" vertical-scroll-proportion="0.0" vertical-offset="1801" max-vertical-offset="5205" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chat/access.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="45" column="12" selection-start="1466" selection-end="1466" vertical-scroll-proportion="0.0" vertical-offset="675" max-vertical-offset="2430">
+          <folding>
+            <marker date="1402252868349" expanded="true" signature="1011:1065" placeholder="UPDATE chatu..." />
+            <marker date="1402252868349" expanded="true" signature="1995:2049" placeholder="UPDATE chatu..." />
+            <marker date="1402252868349" expanded="true" signature="3008:3080" placeholder="SELECT id FR..chatusers..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chat/ajaxdemo.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="142" column="32" selection-start="4732" selection-end="4732" vertical-scroll-proportion="0.0" vertical-offset="2130" max-vertical-offset="2610">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chat/chat.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="59" column="26" selection-start="2063" selection-end="2063" vertical-scroll-proportion="0.0" vertical-offset="885" max-vertical-offset="1215">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/access.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="0" selection-start="548" selection-end="548" vertical-scroll-proportion="0.0" vertical-offset="315" max-vertical-offset="1995">
+          <folding>
+            <marker date="1400656377641" expanded="true" signature="1814:1884" placeholder="SELECT COUNT..authors..." />
+            <marker date="1400656377641" expanded="true" signature="2540:2713" placeholder="SELECT COUNT..authors..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/db.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="606">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/magicquotes.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="606">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chat_longPolling/login.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="212" column="0" selection-start="5925" selection-end="5925" vertical-scroll-proportion="0.0" vertical-offset="3180" max-vertical-offset="3600">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chat_longPolling/access.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="97" column="0" selection-start="3028" selection-end="3028" vertical-scroll-proportion="0.0" vertical-offset="1455" max-vertical-offset="2460">
+          <folding>
+            <marker date="1408479927770" expanded="true" signature="1047:1101" placeholder="UPDATE chatu..." />
+            <marker date="1408479927770" expanded="true" signature="2031:2085" placeholder="UPDATE chatu..." />
+            <marker date="1408479927770" expanded="true" signature="3045:3117" placeholder="SELECT id FR..chatusers..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chat_longPolling/friendForm.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="299" column="59" selection-start="9005" selection-end="9005" vertical-scroll-proportion="0.0" vertical-offset="4485" max-vertical-offset="4800">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chat_longPolling/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="178" column="29" selection-start="6007" selection-end="6007" vertical-scroll-proportion="-0.13711151" vertical-offset="2670" max-vertical-offset="3645">
+          <folding>
+            <marker date="1408480772654" expanded="true" signature="779:838" placeholder="SELECT COUNT..chatusers..." />
+            <marker date="1408480772654" expanded="true" signature="2136:2343" placeholder="INSERT INTO ..." />
+            <marker date="1408480772654" expanded="true" signature="4396:4475" placeholder="INSERT INTO ..." />
+            <marker date="1408480772654" expanded="true" signature="4953:5023" placeholder="INSERT INTO ..." />
+            <marker date="1408480772654" expanded="true" signature="5406:5482" placeholder="DELETE FROM ..." />
+            <marker date="1408480772654" expanded="true" signature="5994:6039" placeholder="SELECT first..chatusers..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
