@@ -266,7 +266,7 @@ include_once $_SERVER['DOCUMENT_ROOT'] . '/phptest/includes/helpers.inc.php';
             </tr>
             <?php foreach ($friendRequests as $friendRequest): ?>
                 <tr>
-                    <td><?php htmlout($friendRequest['name']); ?></td>
+                    <td><?php htmlout($friendRequest['first_name']); ?></td>
                     <td>
                         <form action="" method="post">
                             <div>
